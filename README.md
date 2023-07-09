@@ -1,4 +1,5 @@
-<img src="https://github.com/writetogurpreetsingh8/writetogurpreetsingh8/blob/main/git-hub-banner.png" width="100%" height=10% align="right" alt='banner'/> 
+![logo](https://github.com/writetogurpreetsingh8/writetogurpreetsingh8/blob/main/git-hub-banner.png)
+<!-- <img src="https://github.com/writetogurpreetsingh8/writetogurpreetsingh8/blob/main/git-hub-banner.png" width="100%" height=10% align="right" alt='banner'/> -->
 <h1 align="center">Hi 👋, I'm Gurupreet Singh</h1>
 <h3 align="center">A passionate Java, AWS and Microservices Developer from India</h3>
 
