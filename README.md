@@ -3,9 +3,10 @@
 <h1 align="center">Hi 👋, I'm Gurupreet Singh</h1>
 <h3 align="center">A passionate Java, AWS and Microservices Developer from India</h3>
 <div>
- <img src="https://github.com/writetogurpreetsingh8/writetogurpreetsingh8/blob/main/leet-code-first-century-banner.PNG" width="400" align="right" alt='coding' height="100"/>
- <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="400" align="right" alt='coding'/> 
+ <img src="https://github.com/writetogurpreetsingh8/writetogurpreetsingh8/blob/main/leet-code-first-century-banner.PNG" align="right" alt='coding'/> 
 </div>
+
+<img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="400" align="right" alt='coding'/>
  
 <!-- <img src="https://media.tenor.com/v77aIXK7RWQAAAAC/robert-downey-jr-tony-stark.gif" width="300" align="right" alt='coding'/> 
 <img src="https://thumbs.gfycat.com/CanineWebbedBrontosaurus-size_restricted.gif" width="300" align="right" alt='coding'/> 
